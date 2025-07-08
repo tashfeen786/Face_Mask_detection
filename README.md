@@ -1,7 +1,7 @@
 😷 Face Mask Detection System
 A real-time face mask detection system built using Python, OpenCV, and Keras (MobileNetV2) to identify whether people are wearing face masks or not using webcam input.
 <br>
-🚀 Features
+**🚀 Features**
 Real-time detection from webcam/video
 
 Deep learning model based on MobileNetV2
@@ -9,8 +9,9 @@ Deep learning model based on MobileNetV2
 High accuracy with data augmentation
 
 Displays live labels: With Mask / Without Mask
-
-🛠️ Technologies Used
+**
+<br>
+🛠️ Technologies Used**
 Python
 
 OpenCV
@@ -30,17 +31,17 @@ bash
 Copy
 Edit
 python detect_mask_video.py
-📌 Dataset
+**📌 Dataset**
 Two classes:
-
-with_mask
-
-without_mask
+1. with_mask
+2. without_mask
 
 The data was preprocessed and augmented to enhance model performance.
 
-👨‍💻 Author
+👨‍💻** Author**
 Tashfeen Aziz
+<br>
 LinkedIn: https://www.linkedin.com/in/tashfeen-aziz-b51361292/ 
+<br>
 📧 Email: tashfeen247@gmail.com
 
